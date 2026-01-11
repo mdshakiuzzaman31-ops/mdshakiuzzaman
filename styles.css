@@ -1,0 +1,21 @@
+/* existing CSS থাকবে */
+
+.lang-toggle {
+    text-align: right;
+    margin-bottom: 10px;
+}
+
+.lang-toggle button {
+    padding: 6px 12px;
+    margin-left: 5px;
+    border: none;
+    background: #0a66c2;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+.lang-toggle button:hover {
+    background: #084c91;
+}
